@@ -28,3 +28,5 @@ To exit venv just type ```deactivate```
 ## License
 
 This project is licensed under the MIT License (see the `LICENSE` file for details).
+
+TEST SEVULYBIN
